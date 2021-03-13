@@ -1,2 +1,2 @@
 # pytorch_diff
-Function derivatives with pytorch
+Implement function derivatives (gradient, divergence, Laplacian) with pytorch
